@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import "./css/global.css";
 import "./App.css";
 import Router from "./Router";
 

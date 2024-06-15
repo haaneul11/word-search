@@ -7,10 +7,10 @@ export default function Router() {
     <BrowserRouter>
       <nav>
         <ul>
-          <li>
+          <li className="nav-bar__item">
             <NavLink to="/">Home</NavLink>
           </li>
-          <li>
+          <li className="nav-bar__item">
             <NavLink to="/word-search">Word Search</NavLink>
           </li>
         </ul>

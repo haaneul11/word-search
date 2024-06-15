@@ -1,0 +1,63 @@
+main {
+  padding: 30px 20px;
+  padding-bottom: 100px;
+}
+
+.maker__title {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px 0;
+}
+
+.maker-container__title {
+  display: flex;
+  height: 20px;
+  /* background: gray; */
+  padding: 10px;
+}
+
+.maker-container__content {
+  width: 100%;
+  height: 30px;
+  border: 0.5px solid gray;
+  border-radius: 5px;
+}
+
+.word-list-contanier {
+  display: flex;
+  gap: 10px;
+}
+
+.word-badge-container {
+  display: flex;
+  gap: 5px;
+  margin-top: 10px;
+}
+
+.word-badge {
+  padding: 7px;
+  background: #ff7f7f54;
+  border-radius: 7px;
+}
+
+.add-btn {
+  background-color: rgb(164, 152, 251);
+  width: 100px;
+  border-radius: 5px;
+  padding: 5px 12px;
+  box-sizing: border-box;
+  color: black;
+  cursor: pointer;
+}
+
+.write-btn {
+  background-color: palegreen;
+  width: 100px;
+  height: 40px;
+  margin: 10px;
+  border-radius: 5px;
+  padding: 5px 12px;
+  box-sizing: border-box;
+  color: black;
+  cursor: pointer;
+}
